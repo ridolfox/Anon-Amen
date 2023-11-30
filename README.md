@@ -67,7 +67,7 @@ Mitigation: This would be extremely difficult to pull off as a scammer and proba
 
 Mitigation: This mistake is completely on the buyer, if you undervalue a package you are undervaluing the insurance. Most buyers will overvalue their packages to give them cushion. And if forwarders are opening up their buyers’ packages in search for illegal items, this would enter into their ratings and deter further business.
 
-4. Package delivery weaknesses examples:
+4. Package delivery weakness examples:
 
 A. The package was delivered to forwarder. Depending on how the buyer and forwarder set up the exchange, there could be many attack vectors during the package drop-off. For example, if they decide to have a public meet up spot with no cameras and the forwarder says the package was dropped at the agreed upon location (public park, parking spot, specific geo location) but the buyer says the package was never there, what happens? 
 
