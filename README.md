@@ -1,5 +1,5 @@
 # Anon-Amen
-Anonymous Shipping Configuration 
+Anonymous Shipping  
 
 
 How It Works
@@ -16,7 +16,7 @@ Order of Operations:
 
 1. Forwarder signs up on website. Lists zip code and advertisement. Advertisement includes any limits and disclaimers. Forwarder deposits Monero into custodial wallet.
 
-2. Buyer goes on website and finds a forwarder geographically close to them. Creates an account. Hits a button to initiate trade with Forwarder. Once the forwarder accepts “initiate trade”, a webpage for that trade is created that allows for input data and chat is now allowed. 
+2. Buyer goes on website and finds a forwarder geographically close to them. Creates an account. Hits a button to initiate trade with Forwarder. Once the forwarder accepts trade, a webpage is created for that specific trade. Both parties can chat and input data into text fields. 
 
 3. In the chat the forwarder and buyer should decide how the package should be picked up.  Does the buyer want to meet in public, a specific address (parking lot, cafe), delivered to his address by the forwarder, etc?
 
